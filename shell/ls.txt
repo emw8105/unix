@@ -1,0 +1,5 @@
+-rw-r--r-- 1 emw200004 sn 314677 Feb  6 17:37 passwd.txt
+-rw-r--r-- 1 emw200004 sn     49 Feb  6 17:37 poem.txt
+-rw-r--r-- 1 emw200004 sn     67 Feb  6 17:37 poem2.txt
+-rw-r--r-- 1 emw200004 sn     49 Feb  6 17:37 poem3.txt
+-rw-r--r-- 1 emw200004 sn     67 Feb  6 17:37 poem4.txt

@@ -1,0 +1,49 @@
+avoid.txt
+book.txt
+community.txt
+data.txt
+data1.txt
+data2.txt
+data3.txt
+data4.txt
+error.log
+font.map
+link1.csv
+monthly.csv
+numbers.txt
+passwd.txt
+poem.txt
+poem2.txt
+poem3.txt
+poem4.txt
+reports
+sorted.txt
+story.txt
+vi.txt
+zipmerge
+zipnote
+total 4060
+-rw-r--r-- 1 veerasam cs      47 Aug 30 12:11 avoid.txt
+-rw-r--r-- 1 veerasam cs     232 Aug 30 12:11 book.txt
+-rw-r--r-- 1 veerasam cs     238 Sep  8 12:24 community.txt
+-rw-r--r-- 1 veerasam cs      20 Aug 30 11:51 data.txt
+-rw-r--r-- 1 veerasam cs      10 Sep  1 11:33 data1.txt
+-rw-r--r-- 1 veerasam cs      18 Sep  1 11:38 data2.txt
+-rw-r--r-- 1 veerasam cs      10 Sep  1 11:36 data3.txt
+-rw-r--r-- 1 veerasam cs      18 Sep  1 11:38 data4.txt
+-rw-r--r-- 1 veerasam cs    1045 Sep  1 12:27 error.log
+-rw-r--r-- 1 veerasam cs       0 Aug 30 12:44 font.map
+-rw-r-xr-x 1 veerasam cs 1849812 Aug 30 12:11 link1.csv
+-rw-r-xr-x 1 veerasam cs 1849812 Aug 30 12:11 monthly.csv
+-rw-r--r-- 1 veerasam cs   48894 Aug 30 12:11 numbers.txt
+-rw-r--r-- 1 veerasam cs  314677 Aug 30 12:11 passwd.txt
+-rw-r--r-- 1 veerasam cs      49 Aug 30 12:11 poem.txt
+-rw-r--r-- 1 veerasam cs      67 Aug 30 12:11 poem2.txt
+-rw-r--r-- 1 veerasam cs      49 Aug 30 12:11 poem3.txt
+-rw-r--r-- 1 veerasam cs      67 Aug 30 12:11 poem4.txt
+drwxr-xr-x 2 veerasam cs    4096 Aug 30 12:37 reports
+-rw-r--r-- 1 veerasam cs      20 Aug 30 11:52 sorted.txt
+-rw-r--r-- 1 veerasam cs    6529 Aug 30 12:42 story.txt
+-rw-r--r-- 1 veerasam cs     280 Aug 30 12:10 vi.txt
+drwxr-xr-x 2 veerasam cs    4096 Aug 30 12:44 zipmerge
+prw-r--r-- 1 veerasam cs       0 Aug 30 12:44 zipnote

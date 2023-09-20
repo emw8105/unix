@@ -1,0 +1,10 @@
+a or i - append or insert
+Esc - go back to command mode
+:wq  ZZ  - write and quit
+:q! - quit without saving
+:se nu - show line numbers
+$ - go to end of line
+x - delete one char (5x deletes 5 chars)
+dd - delete a line (3dd deletes 3 lines)
+h j k l - similar to arrow keys
+u - undo
