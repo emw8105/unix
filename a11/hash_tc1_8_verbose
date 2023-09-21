@@ -1,0 +1,30 @@
+num Threads = 8
+Blocks per Thread = 8192
+tnum 7 hash computed 477108413 
+tnum 7 hash sent to parent 477108413 
+tnum 6 hash computed 344977174 
+tnum 6 hash sent to parent 344977174 
+tnum 5 hash computed 1404496905 
+tnum 5 hash sent to parent 1404496905 
+tnum 4 hash computed 3450693023 
+tnum 4 hash sent to parent 3450693023 
+tnum 3 hash computed 1489739498 
+tnum 3 hash from left child 477108413 
+tnum 3 concat string 1489739498477108413 
+tnum 3 hash sent to parent 1652320027 
+tnum 2 hash computed 465516037 
+tnum 2 hash from left child 1404496905 
+tnum 2 hash from right child 344977174 
+tnum 2 concat string 4655160371404496905344977174 
+tnum 2 hash sent to parent 1159585539 
+tnum 1 hash computed 909384344 
+tnum 1 hash from left child 1652320027 
+tnum 1 hash from right child 3450693023 
+tnum 1 concat string 90938434416523200273450693023 
+tnum 1 hash sent to parent 783278573 
+tnum 0 hash computed 1762189887 
+tnum 0 hash from left child 783278573 
+tnum 0 hash from right child 1159585539 
+tnum 0 concat string 17621898877832785731159585539 
+tnum 0 hash sent to parent 2732651556 
+hash value = 2732651556 

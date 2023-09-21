@@ -1,0 +1,24 @@
+num Threads = 1
+Blocks per Thread = 65536
+hash value = 1712119263 
+-----------------------
+num Threads = 16
+Blocks per Thread = 4096
+hash value = 4280469769 
+-----------------------
+num Threads = 64
+Blocks per Thread = 1024
+hash value = 1758737068 
+-----------------------
+num Threads = 256
+Blocks per Thread = 256
+hash value = 1303465191 
+-----------------------
+num Threads = 1024
+Blocks per Thread = 64
+hash value = 1730802746 
+-----------------------
+num Threads = 4096
+Blocks per Thread = 16
+hash value = 3665164568 
+-----------------------
