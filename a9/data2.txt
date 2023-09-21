@@ -1,0 +1,16 @@
+total 112
+-rw-r--r-- 1 veerasam cs   635 Mar 14 12:17 computer.c
+-rw-r--r-- 1 veerasam cs  1057 Mar 14 12:17 connect.c
+-rw-r--r-- 1 veerasam cs   138 Mar 24 12:26 data1.txt
+-rw-r--r-- 1 veerasam cs     0 Mar 24 12:26 data2.txt
+-rw-r--r-- 1 veerasam cs   502 Mar 14 12:17 execvp.c
+-rw-r--r-- 1 veerasam cs   671 Mar 14 12:17 execvp2.c
+-rw-r--r-- 1 veerasam cs  1103 Mar 14 12:17 mecho.c
+-rw------- 1 veerasam cs  3169 Mar 24 12:20 mysh.c
+-rw------- 1 veerasam cs  3169 Mar 14 12:17 myshell.c
+-rw------- 1 veerasam cs  3367 Mar 14 12:17 myshell2.c
+-rw-r--r-- 1 veerasam cs   246 Mar 14 12:17 mywhich.c
+-rw-r--r-- 1 veerasam cs 54351 Mar 14 12:17 quotes.txt
+-rw-r--r-- 1 veerasam cs  1651 Mar 14 12:17 quoteserver.c
+-rw------- 1 veerasam cs   165 Mar 14 12:17 testcmd.c
+-rw-r--r-- 1 veerasam cs   748 Mar 14 12:17 user.c
