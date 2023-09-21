@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1677116613 source:c:\code assignments\cs3377\asg5_diskblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<string.h>
+	<math.h>
+

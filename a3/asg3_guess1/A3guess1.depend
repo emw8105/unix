@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675972195 source:c:\code assignments\cs3377\a3guess1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

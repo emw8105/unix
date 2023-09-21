@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1679601051 source:c:\code assignments\cs3377\asg7_gifts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

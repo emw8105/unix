@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675319254 source:c:\code assignments\cs3377\asg2_cowfind\main.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

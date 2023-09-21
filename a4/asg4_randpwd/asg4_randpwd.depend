@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1676443960 source:c:\code assignments\cs3377\asg4_randpwd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/types.h>
+	<unistd.h>
+

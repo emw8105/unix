@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676604594 source:c:\code assignments\cs3377\asg4_compstr.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
